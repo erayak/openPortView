@@ -1,0 +1,23 @@
+{
+  "name": "scan",
+  "version": "1.0.0",
+  "description": "node js port scan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erayak/openPortView.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erayak/openPortView/issues"
+  },
+  "homepage": "https://github.com/erayak/openPortView#readme",
+  "dependencies": {
+    "portscanner": "^2.1.1",
+    "prompt": "^1.0.0"
+  }
+}
